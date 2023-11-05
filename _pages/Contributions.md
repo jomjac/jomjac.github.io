@@ -12,10 +12,10 @@ author_profile: true
   <p>
     This section is still under construction. The aim is to provide guidance on utilizing the 
     <strong>R distill</strong> library, as well as to feature projects using 
-    <strong style="color: gray;">Python</strong>, 
-    <strong style="color: gray;">R</strong>, 
-    <strong style="color: gray;">Julia</strong>, and 
-    <strong style="color: gray;">LaTeX</strong>.
+    <span style="color: darkblue;">Python</span>, 
+    <span style="color: darkblue;">R</span>, 
+    <span style="color: darkblue;">Julia</span>, and 
+    <span style="color: darkblue;">LaTeX</span>.
   </p>
   <p>
     For the moment, please explore my Tableau projects:
