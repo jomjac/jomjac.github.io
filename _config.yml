@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jose Maria"
-  avatar           : "/images/jomjac.png"
+  avatar           : "jomjac.png"
   bio              : "Passionate about machine learning and financial models"
   location         : "Lima, PE"
   employer         :
