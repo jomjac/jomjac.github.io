@@ -9,23 +9,11 @@ author_profile: true
 
 <div style="text-align: left; font-family: Arial, sans-serif;">
   <h2>🚧 Section Under Construction 🚧</h2>
-  <p>
-    This section is still under construction. The aim is to provide guidance on utilizing the 
-    <strong>R distill</strong> library, as well as to feature projects using 
-    <span style="color: darkblue;">Python</span>, 
-    <span style="color: darkblue;">R</span>, 
-    <span style="color: darkblue;">Julia</span>, and 
-    <span style="color: darkblue;">LaTeX</span>.
-  </p>
-  <p>
-    For the moment, please explore my Tableau projects:
-    <a href="https://public.tableau.com/app/profile/jomjac/vizzes" target="_blank" style="text-decoration: none;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1t8hP_pBXUlnaZS72KKgoAKFJE_tX3CgTFUYUIJ1jkUYfNQAgVivhG0rgqlyl5N8z_4&usqp=CAU" alt="Tableau Icon" style="vertical-align: middle; width: 15px; height: 15px;"> 
-      <span style="vertical-align: middle;">Tableau Jomjac</span>
-    </a>
-  </p>
 </div>
 
+This section is still under construction. The aim is to provide guidance on utilizing the <strong>R distill</strong> library, as well as to feature projects using <span style="color: darkblue;">Python</span>, <span style="color: darkblue;">R</span>, <span style="color: darkblue;">Julia</span>, and <span style="color: darkblue;">LaTeX</span>.
+
+For the moment, please explore my Tableau projects: <a href="https://public.tableau.com/app/profile/jomjac/vizzes" target="_blank" style="text-decoration: none;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1t8hP_pBXUlnaZS72KKgoAKFJE_tX3CgTFUYUIJ1jkUYfNQAgVivhG0rgqlyl5N8z_4&usqp=CAU" alt="Tableau Icon" style="vertical-align: middle; width: 15px; height: 15px;"> <span style="vertical-align: middle;">Tableau Jomjac</span> </a>
 
 
 
